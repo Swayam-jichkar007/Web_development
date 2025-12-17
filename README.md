@@ -1,7 +1,7 @@
 # Web_development
 A beginner-friendly web development repository containing structured notes, practice code, and mini projects using HTML, CSS, JavaScript, and React JS — focused on building strong fundamentals and becoming job-ready.
 
-Author :- Swayam Jichkar
+<h1>Author :- Swayam Jichkar</h1>
 
 # 🌐 Web Development Journey
 
